@@ -7,7 +7,7 @@ description: "Coconut oil in hand, you are ready to navigate some files with Net
 ---
 
 ### Remaps
-Remaps are a powerful way to redefine your vim exerience the way you would like
+Remaps are a powerful way to redefine your vim experience the way you would like
 it.
 
 In your vim rc, add the following line
